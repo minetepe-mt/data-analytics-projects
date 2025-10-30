@@ -50,4 +50,5 @@ Analytical problem solving and data-driven insight generation
 
 👩🏻‍💻 Mine Tepe
 📍 Data Analyst | SQL | Python | Tableau | Power BI
-🔗 LinkedIn Profile
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/mine-tepe/)
+
