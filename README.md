@@ -14,9 +14,9 @@ SQL, Python (pandas), Power BI, Tableau, Amplitude, Looker Studio, Google Sheets
 
 A set of SQL queries analyzing multi-platform (Facebook + Google) ad performance data.
 
-GÖREV 1.3: Identified the campaign with the highest weekly total value.
+Weekly Campaign Analysis: Identified the campaign with the highest weekly total value.
 
-GÖREV 1.4: Calculated month-over-month reach growth and found the top-performing campaign.
+Monthly Reach Growth Analysis: Calculated month-over-month reach growth and found the top-performing campaign.
 
 GÖREV 1.5: Determined the longest continuously active adset across platforms.
 
