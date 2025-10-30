@@ -18,9 +18,9 @@ Weekly Campaign Analysis: Identified the campaign with the highest weekly total 
 
 Monthly Reach Growth Analysis: Calculated month-over-month reach growth and found the top-performing campaign.
 
-Stack Overflow Developer Survey Analysis: Determined the longest continuously active adset across platforms.
+Continuous Adset Activity Tracking: Determined the longest continuously active adset across platforms.
 
-📂 Files: ARAPROJE_GOREV1.3.sql, ARAPROJE_GOREV1.4.sql, ARAPROJE_GOREV1.5.sql
+📂 Files: Weekly Campaign Analysis.1.3.sql, Monthly Reach Growth Analysis.1.4.sql, Continuous Adset Activity Tracking.1.5.sql
 
 2️⃣ Stack Overflow Developer Survey Analysis (Python)
 
