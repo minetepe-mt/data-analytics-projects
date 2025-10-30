@@ -18,7 +18,7 @@ Weekly Campaign Analysis: Identified the campaign with the highest weekly total 
 
 Monthly Reach Growth Analysis: Calculated month-over-month reach growth and found the top-performing campaign.
 
-GÖREV 1.5: Determined the longest continuously active adset across platforms.
+Stack Overflow Developer Survey Analysis: Determined the longest continuously active adset across platforms.
 
 📂 Files: ARAPROJE_GOREV1.3.sql, ARAPROJE_GOREV1.4.sql, ARAPROJE_GOREV1.5.sql
 
@@ -34,7 +34,7 @@ Computed country-level compensation statistics for Python users.
 
 Identified top industries and education levels among the highest earners.
 
-📂 File: hw4-2025.ipynb
+📂 File: Stack Overflow Developer Survey Analysis.ipynb
 
 🌟 Key Learning Outcomes
 
